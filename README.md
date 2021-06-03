@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JulioNG101
 - 👀 I’m interested in Mathematics, AI, and Computer Programming
 - 🌱 I’m currently learning AI alongside Python
-- 💞️ I’m looking to collaborate on intermidiate level projects
+- 💞️ I’m looking to collaborate on intermediate level projects
 - 📫 How to reach me: juliofausto2001@gmail.com
 
 <!---
