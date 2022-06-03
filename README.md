@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JulioNG101
+- 👋 Hi, I’m @Julio Nunez Garcia
 - 👀 I’m interested in Mathematics, AI, and Computer Programming
 - 🌱 I’m currently learning AI alongside Python and Java
 - 💞️ I’m looking to collaborate on intermediate level projects
